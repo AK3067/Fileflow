@@ -1,0 +1,6 @@
+{
+  "name": "FileFlow",
+  "description": "Gallery-style media and office suite with albums, favorites, recycle bin, and file manager features",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
