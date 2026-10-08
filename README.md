@@ -39,7 +39,7 @@
 ## Downloads
 
 - **Source code (ZIP):** [fileflow.zip](./application assert/fileflow.zip)
-- **APK file:** *(upload later)*
+- **APK file:** *Very Soon*
 
 ## Telegram
 
