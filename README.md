@@ -9,18 +9,24 @@
 ## UI Screenshots
 
 <div>
-  <img src="./application assert/Screenshots/Homescreen.png" alt="Homescreen" width="320" />
-  <img src="./application assert/Screenshots/Second Page.png" alt="Second Page" width="320" />
+  <img src="./application assert/Screenshots/Homepage.jpg" alt="Homepage" width="320" />
+  <img src="./application assert/Screenshots/Library Page.jpg" alt="Library Page" width="320" />
 </div>
 
 <div>
-  <img src="./application assert/Screenshots/File Lightbox.png" alt="File Lightbox" width="320" />
-  <img src="./application assert/Screenshots/File edit lightbox.png" alt="File edit lightbox" width="320" />
+  <img src="./application assert/Screenshots/Shelf View.jpg" alt="Shelf View" width="320" />
+  <img src="./application assert/Screenshots/Photo Editor Lightbox.jpg" alt="Photo Editor Lightbox" width="320" />
 </div>
 
 <div>
-  <img src="./application assert/Screenshots/Media Lightbox.png" alt="Media Lightbox" width="320" />
-  <img src="./application assert/Screenshots/Media Edit Lightbox.png" alt="Media Edit Lightbox" width="320" />
+  <img src="./application assert/Screenshots/New shelf option.jpg" alt="Shelf View" width="320" />
+  <img src="./application assert/Screenshots/Filter Option.jpg" alt="Photo Editor Lightbox" width="320" />
+</div>
+
+
+<div>
+  <img src="./application assert/Screenshots/Meta Viewer.jpg" alt="Meta Viewer" width="320" />
+  <img src="./application assert/Screenshots/Private Vault  view.jpg" alt="Private Vault View" width="320" />
 </div>
 
 ## Run Locally
